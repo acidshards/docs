@@ -881,6 +881,11 @@
             "source_path": "fsharp/tutorials/getting-started/getting-started-command-line.md",
             "redirect_url": "/dotnet/fsharp/get-started/get-started-command-line",
             "redirect_document_id": true
+        },
+        {
+            "source_path": "docs/framework/wpf/controls/datepicker-syles-and-templates.md",
+            "redirect_url": "/dotnet/framework/wpf/controls/datepicker-styles-and-templates",
+            "redirect_document_id": true
         }
     ]
 }
